@@ -1,10 +1,10 @@
 ==================================
-De Fancy Console string generator
+Dev Fancy Console string generator
 ==================================
 
 Stylized Python console, a project made for fun.
 
-Code example for Fancy Message
+Code example for Fancy Message (Default values)
 ------------------------------
 
 .. code:: python
